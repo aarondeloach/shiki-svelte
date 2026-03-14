@@ -1,7 +1,7 @@
 {
 	"name": "shiki-svelte",
 	"description": "A component that renders code with Shiki in Svelte",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
