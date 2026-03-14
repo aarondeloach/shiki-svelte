@@ -1,12 +1,7 @@
 <script>
-    import CodeHighlighter from "$lib/CodeHighlighter.svelte";
+    import {CodeHighlighter} from "$lib";
 </script>
 
 
 <CodeHighlighter code={`<button>Click me</button>`}/>
 
-<style>
-    .shiki-svelte {
-        min-height: 700px;
-    }
-</style>
